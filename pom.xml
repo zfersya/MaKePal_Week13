@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
 
 <dependencies>
   <dependency>
@@ -20,10 +20,14 @@
     </repository>
   </distributionManagement>
   
+<!-- halo -->
+
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
  </properties>
   
+
+
 </project>
 
